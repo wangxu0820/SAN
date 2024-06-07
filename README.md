@@ -1,5 +1,5 @@
 # Stochastic Adversarial Network for Multi-Domain Text Classification
-Implementation of " Stochastic Adversarial Network for Multi-Domain Text Classification" in Pytorch
+Implementation of [Stochastic Adversarial Network for Multi-Domain Text Classification](https://arxiv.org/abs/2406.00044) in Pytorch
 
 ## Datasets
 We used the same dataset as Conditional Adversarial Networks for Multi-Domain Text Classification (CAN) .So, You can download from https://github.com/YuanWu3/Conditional-Adversarial-Networks-for-Multi-Domain-Text-Classification/tree/main/data
